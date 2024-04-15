@@ -1,0 +1,70 @@
+/* STYLE.CSS */
+
+/* headers style */
+h1 {
+   text-align: center;
+   font-size: 35px;
+   color: green !important;
+   margin: 0 auto;
+} 
+
+
+/* images style */
+img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+
+
+/* red text */
+.green{
+color: #228B22;
+}
+
+
+/* overall font style */
+body {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 15px;
+   color: #555555;
+   background-color: #e0ebe4;
+}
+
+
+/* qualification's style */
+li {
+   font-size: 14px;
+   font-style: italic;
+   font-weight: normal;
+}
+.items {
+   font-weight: bold;
+   font-style: normal;
+}
+
+
+/* links */
+a {color: maroon;
+text-decoration: none;}
+a:hover {
+   text-decoration: underline;
+   font-weight: bold;
+   font-size: 18px;
+}
+a:visited {
+   color: blue;
+}
+
+
+/* random style things */
+.underline {text-decoration: underline;}
+.bold {font-weight: bold;}
+.justify {text-align: justify;}
+
+.sauna-checklist-container {
+    position: relative;
+    left: 100px;
+}
+
